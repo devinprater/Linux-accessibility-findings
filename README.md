@@ -28,6 +28,9 @@ and each document says what was verified and what was not.
 
 - `research/touch-input-and-assistive-technology.md` — does any Linux desktop give assistive
   technology access to touch input today? First pass, October 2026.
+- `research/how-other-readers-do-touch.md` — how NVDA, Narrator, JAWS, TalkBack, BackTalk and
+  VoiceOver implement touch, the six patterns they share, and three ways a Linux reader could do
+  the same.
 - `research/linux-accessibility-landscape.md` — the moving parts of Linux accessibility in 2026:
   AT-SPI, Newton, AccessKit, the two a11y D-Bus interfaces and the portals, with a list of what
   could be worked on.

@@ -3,6 +3,9 @@
 First pass, 10 October 2026. Written by Devin Prater with the agent, from public sources and
 from reading the source of Orca and the portal definitions.
 
+See `how-other-readers-do-touch.md` for how the readers that do have touch are built, and what
+they suggest for Linux.
+
 ## The question
 
 A blind user with a touch screen on the Linux desktop has no equivalent of touch exploration,
